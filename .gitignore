@@ -1,0 +1,5 @@
+node_modules/
+.next/
+database.sqlite*
+uploads/
+.env*
