@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "engines": {
-    "node": ">=20.9"
+    "node": "22.x"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
